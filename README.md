@@ -1,4 +1,4 @@
-# Kanye-Resquest
+# Kanye Resquest
 
 Making GET requests to the free JSON API https://api.kanye.rest
 
